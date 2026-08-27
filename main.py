@@ -1,6 +1,6 @@
 import csv
 import os
-name= input("Enter student name:")
+name= input("Enter student full name:")
 subjects=["python","java","c++", "Database"]
 marks=[]
 for subject in subjects:
